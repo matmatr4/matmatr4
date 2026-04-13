@@ -21,7 +21,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C6FF&size=24&center=true&vCenter=true&width=700&lines=Innovation;Curiosity;Adaptability;Knowledge)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matmatr4&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matmatr4&theme=github_dark)
+
 
 <!--
 **matmatr4/matmatr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
