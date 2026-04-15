@@ -1,27 +1,46 @@
-## Work in progress...
+<!-- custom canva banner here
+-->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<h1 align="center"> Hi! I'm Matylda Matracka </h1>
 
-## Familiar Tools
-<p align="left">
+<h3 align="center"> 📍 Made in Poland | 📚 Studied in Italy (IBDP survivor) | 🫡 First Year BSc in CS | 🇵🇱 🇮🇹 🇬🇧 </h3>
+
+---
+
+## Tools
+
+<!-- current tech stack here (so the things you are using as a specialist etc.)
+-->
+
+### Familir with:
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,azure,java,python,mysql,linux,kali,ubuntu,apple,windows,bash,powershell" />
   </a>
 </p>
 
-## Expanding Knowledge in Tools
-<p align="left">
+### Expanding Knowledge in:
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,docker,kubernetes" />
   </a>
 </p>
 
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matmatr4&theme=transparent" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C6FF&size=24&center=true&vCenter=true&width=700&lines=Innovation;Curiosity;Adaptability;Knowledge)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matmatr4&theme=github_dark)
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C6FF&size=24&center=true&vCenter=true&width=700&lines=Curious+Driven+Adaptable;Pursuing+Excellence+and+Continuous+Growth;I+never+loose.+I+either+win+or+learn+🤫" alt="Typing SVG" />
+</div>
+
+
 
 
 <!--
