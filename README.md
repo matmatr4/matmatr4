@@ -19,8 +19,6 @@
   <li> secure programming and practical hardening </li>
 </ul>
 
-<br>
-
 <h4> Technical Experience: </h4>
 <ul> 
   <li> Personal programming projects 
@@ -36,14 +34,11 @@
   <li> GitHub Version Control and Virtual Collaboration (git)  </li>
 </ul>
 
-<br>
-
 <h4> Currently Working on: </h4>
 <p>
   Building a website, as a comission -> learning HTML, CSS, JS; strengthening programming skills in other languages; improving organization of projects; collaborating; strngthening system design skills; CI/CD concept strengthening; utilizing sales strategies;
 </p>
 
-<br>
 
 <h4> Hobbies: </h4>
 <ul> 
@@ -53,7 +48,6 @@
   <li> Building, Inventing, Coding </li>
   <li> Crafting </li>
 </ul>
-<br>
 
 ---
 
