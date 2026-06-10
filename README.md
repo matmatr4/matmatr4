@@ -27,22 +27,25 @@
       <li> Java </li>
       <li> APIs </li>
       <li> MySQL (JDBC) </li>
+      <li> SQLite </li>
+      <li> OOP </li>
+      <li> HTML, CSS </li>
     </ul>
   </li>  
   <li> IT Systems and Infrastructure comission </li>
-  <li> Web Development and Sales Campaign comission </li>
   <li> GitHub Version Control and Virtual Collaboration (git)  </li>
+  <li> Machine Learning with Memory Based Collaborative Filtering </li>
 </ul>
 
 <h4> Currently Working on: </h4>
 <p>
-  Building a website, as a comission -> learning HTML, CSS, JS; strengthening programming skills in other languages; improving organization of projects; collaborating; strngthening system design skills; CI/CD concept strengthening; utilizing sales strategies;
+  Building a backend to a website -> learning JS; strengthening programming skills in Java and learning SpringBoot;  collaborating; strengthening system design skills; CI/CD concept strengthening; utilizing sales strategies;
 </p>
 
 
 <h4> Hobbies: </h4>
 <ul> 
-  <li> Sports (racing, racquet sports, table tennis, weightlifitng, golf, and more) </li>
+  <li> Sports </li>
   <li> Cooking </li>
   <li> Gaming </li>
   <li> Building, Inventing, Coding </li>
@@ -59,14 +62,14 @@
 ### Familir with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,azure,java,python,mysql,linux,kali,ubuntu,apple,windows,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,azure,java,python,mysql,linux,kali,ubuntu,apple,windows,bash,powershell,html,css" />
   </a>
 </p>
 
 ### Expanding Knowledge in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=js,docker,kubernetes,spring,java" />
   </a>
 </p>
 
@@ -83,21 +86,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=b3b8ff&size=24&center=true&vCenter=true&width=700&lines=Curious+Driven+Adaptable;Pursuing+Excellence+and+Continuous+Growth;I+never+loose.+I+either+win+or+learn+🤫" alt="Typing SVG" />
 </div>
-
-
-
-
-<!--
-**matmatr4/matmatr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
