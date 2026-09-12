@@ -2,7 +2,7 @@
 ![banner](https://svg-banners.vercel.app/api?type=origin&text1=Welcome&width=800&height=200)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b3b8ff&height=200&section=header&text=&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3446eb&height=200&section=header&text=&fontColor=ffffff&fontSize=40)
 
 <h1 align="center"> Hi! I'm Matylda Matracka </h1>
 
