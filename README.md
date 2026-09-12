@@ -69,7 +69,7 @@
 ### Expanding Knowledge in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,docker,kubernetes,spring,java" />
+    <img src="https://skillicons.dev/icons?i=js,docker,spring,java" />
   </a>
 </p>
 
